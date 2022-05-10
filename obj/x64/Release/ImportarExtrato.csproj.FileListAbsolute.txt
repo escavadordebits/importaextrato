@@ -1,0 +1,8 @@
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\bin\x64\Release\ImportarExtrato.exe
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\bin\x64\Release\ImportarExtrato.pdb
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\bin\x64\Release\SAPBusinessOneSDK.dll
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\obj\x64\Release\ImportarExtrato.csproj.CoreCompileInputs.cache
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\obj\x64\Release\ImportarExtrato.csproj.CopyComplete
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\obj\x64\Release\ImportarExtrato.exe
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\obj\x64\Release\ImportarExtrato.pdb
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\obj\x64\Release\ImportarExtrato.csproj.AssemblyReference.cache

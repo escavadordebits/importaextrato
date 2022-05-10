@@ -1,0 +1,14 @@
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\bin\Debug\ImportarExtrato.exe
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\bin\Debug\ImportarExtrato.pdb
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\bin\Debug\SAPBusinessOneSDK.dll
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\obj\Debug\ImportarExtrato.csproj.AssemblyReference.cache
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\obj\Debug\ImportarExtrato.csproj.CoreCompileInputs.cache
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\obj\Debug\ImportarExtrato.csproj.CopyComplete
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\obj\Debug\ImportarExtrato.exe
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\obj\Debug\ImportarExtrato.pdb
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\bin\Debug\ExcelDataReader.dll
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\bin\Debug\ExcelDataReader.pdb
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\bin\Debug\ExcelDataReader.xml
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Projetos\Evo\ImportarExtrato\ImportarExtrato\bin\Debug\ExcelDataReader.DataSet.xml
